@@ -4,9 +4,5 @@
 
 ## React Native
 
-* [Untitled](react-native/untitled.md)
-
 ## React
-
-* [Untitled](react/untitled.md)
 
