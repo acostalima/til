@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Purpose](README.md)
 
 ## React Native
 
