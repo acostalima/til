@@ -6,3 +6,7 @@
 
 * [Turn off validation for non-TypeScript projects](vscode/turn-off-type-checks-for-non-typescript-projects.md)
 
+## GitHub
+
+* [Official RSS Feeds](github/official-rss-feeds.md)
+
