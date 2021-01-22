@@ -1,3 +1,7 @@
+---
+description: Test description
+---
+
 # Turn off type checks for non-TypeScript projects
 
 When working on Flow or JS codebases, TS can get in your way by signalling irrelevant errors. To avoid this, disable the following settings in your project:
