@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Purpose](README.md)
+* [✍️ Today I Learned \(TIL\)](README.md)
 
 ## Visual Studio Code <a id="vscode"></a>
 
