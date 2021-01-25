@@ -1,6 +1,6 @@
 # Run GitHub gists with Node.js
 
-Gist-based Node.js scripts can be downloaded and invoked directly with `npx`. Check out this [example](https://gist.github.com/acostalima/95714b3263ecbd52109db3d1b494fd13\), a script which copies to the clipboard a list with of all the extensions installed in Visual Studio Code. You can run the script with the follow command:
+Gist-based Node.js scripts can be downloaded and invoked directly with `npx`. Check out this [example](https://gist.github.com/acostalima/95714b3263ecbd52109db3d1b494fd13), a script which copies to the clipboard a list with of all the extensions installed in Visual Studio Code. You can run the script with the follow command:
 
 ```bash
 $ npx https://gist.github.com/acostalima/95714b3263ecbd52109db3d1b494fd13
