@@ -10,3 +10,7 @@
 
 * [Official RSS Feeds](github/official-rss-feeds.md)
 
+## npm
+
+* [Run GitHub gists with Node.js](npm/run-github-gists-with-node.js.md)
+
