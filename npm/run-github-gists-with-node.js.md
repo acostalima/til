@@ -14,5 +14,7 @@ In order to successfully run any script, the following is required:
 * Create a `package.json` file to declare the dependencies the script uses.
 * Supply a [`bin`](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#bin) property in the `package.json` to tell `npm` that the script is an executable file.
 
+> About npx: [https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+
 
 
