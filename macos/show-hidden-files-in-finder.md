@@ -6,4 +6,4 @@
 $ defaults write com.apple.Finder AppleShowAllFiles YES
 ```
 
-* Toggle manually using the shortcut: ⌘ + ⇧ + . (period)
+* Toggle manually using the shortcut ⌘ + ⇧ + . (period)
