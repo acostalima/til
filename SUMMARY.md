@@ -17,3 +17,4 @@
 ## macOS
 
 * [Show hidden files in Finder](macos/show-hidden-files-in-finder.md)
+* [List top-level packages installed with Brew](macos/list-top-level-packages-installed-with-brew.md)
