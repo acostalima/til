@@ -18,3 +18,7 @@
 
 * [Show hidden files in Finder](macos/show-hidden-files-in-finder.md)
 * [List top-level packages installed with Brew](macos/list-top-level-packages-installed-with-brew.md)
+
+## Google Chrome
+
+* [Enable reading list on Android](google-chrome/enable-reading-list-on-android.md)
