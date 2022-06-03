@@ -4,6 +4,7 @@
 
 ```
 $ defaults write com.apple.Finder AppleShowAllFiles YES
+$ killall Finder
 ```
 
 * Toggle manually using the shortcut ⌘ + ⇧ + . (period)
