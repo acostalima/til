@@ -16,6 +16,7 @@
 
 ## macOS
 
+* [Compress without \_\_MACOSX and .DS\_Store files](macos/compress-without-\_\_macosx-and-.ds\_store-files.md)
 * [Show hidden files in Finder](macos/show-hidden-files-in-finder.md)
 * [List top-level packages installed with Brew](macos/list-top-level-packages-installed-with-brew.md)
 
