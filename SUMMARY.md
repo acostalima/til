@@ -8,6 +8,7 @@
 
 ## GitHub
 
+* [Using dark and light mode-specific images in markdown](github/using-dark-and-light-mode-specific-images-in-markdown.md)
 * [Official RSS Feeds](github/official-rss-feeds.md)
 
 ## npm
