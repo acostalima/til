@@ -22,21 +22,17 @@ $ while :; do { echo "HTTP/1.0 200 OK" } | nc -l 8080; done
 
 #### BSD macOS
 
-{% code overflow="wrap" %}
 ```bash
 $ { echo -n "HTTP/1.0 200 OK\r\nContent-Length: $(wc -c </path/to/file)\r\n\r\n"; cat /path/to/file; } | nc -l 8080
 ```
-{% endcode %}
 
 ### Serve a file
 
 #### BSD macOS
 
-{% code overflow="wrap" %}
 ```bash
 $ while :; do { echo -n "HTTP/1.0 200 OK\r\nContent-Length: $(wc -c </path/to/file)\r\n\r\n"; cat /path/to/file; } | nc -l 8080; done
 ```
-{% endcode %}
 
 ## Static server
 
