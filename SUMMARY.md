@@ -24,3 +24,7 @@
 ## Google Chrome
 
 * [Enable reading list on Android](google-chrome/enable-reading-list-on-android.md)
+
+## gmail
+
+* [Obtain a link to an email thread](gmail/obtain-a-link-to-an-email-thread.md)
