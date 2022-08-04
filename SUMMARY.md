@@ -28,3 +28,7 @@
 ## gmail
 
 * [Obtain a link to an email thread](gmail/obtain-a-link-to-an-email-thread.md)
+
+## web servers
+
+* [Quick-start a HTTP server](web-servers/quick-start-a-http-server.md)
