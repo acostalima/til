@@ -13,5 +13,5 @@ b. Use `<picture>` HTML element combined with `prefers-color-scheme` media query
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://til.andrecostalima.pt/dark.png">
   <img src="https://til.andrecostalima.pt/light.png">
-</picture>htm
+</picture>
 ```
