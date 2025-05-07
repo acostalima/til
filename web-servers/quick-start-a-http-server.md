@@ -1,42 +1,38 @@
 # Quick-start a HTTP server
 
-## netcat
+## Serve an empty response once and exit
 
-### Serve an empty response once and exit
-
-#### BSD macOS
+### macOS
 
 ```bash
 $ { echo "HTTP/1.0 200 OK" } | nc -l 8080
 ```
 
-### Serve an empty response
+## Serve an empty response
 
-#### BSD macOS
+### macOS
 
 ```bash
 $ while :; do { echo "HTTP/1.0 200 OK" } | nc -l 8080; done
 ```
 
-### Serve a file once and exit
+## Serve a file once and exit
 
-#### BSD macOS
+### macOS
 
 ```bash
 $ { echo -n "HTTP/1.0 200 OK\r\nContent-Length: $(wc -c </path/to/file)\r\n\r\n"; cat /path/to/file; } | nc -l 8080
 ```
 
-### Serve a file
+## Serve a file
 
-#### BSD macOS
+### macOS
 
 ```bash
 $ while :; do { echo -n "HTTP/1.0 200 OK\r\nContent-Length: $(wc -c </path/to/file)\r\n\r\n"; cat /path/to/file; } | nc -l 8080; done
 ```
 
-## Static server
-
-### Serve the working directory and its files
+## Serve the working directory and its files statically
 
 ```bash
 $ npx serve # requires npm
